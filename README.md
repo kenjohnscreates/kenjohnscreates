@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenjohnscreates
-- 👀 I’m interested in tokenizing IP 
-- 🌱 I’m currently learning cross chain indexing, payment settlements and easy web3 onboarding UX
+- 👀 I’m interested in tokenizing IP and building agentic tools 
+- 🌱 I’m a project manager with a marketing and product focus, currently learning python and easy web3 onboarding UX frameworks
 - 📫 How to reach me kenny@ampleplatform.com
 - ⚡ Fun fact: I'm building ampleprotocol.xyz with an amazing team 🙌
