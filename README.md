@@ -2,4 +2,4 @@
 - 👀 I’m interested in tokenizing IP and building agentic tools 
 - 🌱 I’m a project manager with a marketing and product focus, currently learning python and easy web3 onboarding UX frameworks
 - 📫 How to reach me kenny@ampleplatform.com
-- ⚡ Fun fact: I'm building ampleprotocol.xyz with an amazing team 🙌
+- ⚡ Fun fact: When I'm not working - I hike, snowboard, travel, go to shows and pretend I can surf
