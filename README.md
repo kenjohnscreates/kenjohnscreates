@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenjohnscreates
-- 👀 I’m interested in tokenizing IP and building agentic tools 
-- 🌱 I’m a project manager with a marketing and product focus, currently learning python + vibe coding to build easy to use web3 tools + onboarding UX frameworks
+- 👀 I’m interested in tokenizing IP and building agentic tools with Ample Protocol
+- 🌱 I’m a project manager with a marketing and product focus, currently learning python + vibe coding to build easy to use web3 tools + data and AI workflows
 - 📫 How to reach me kenny@ampleplatform.com
 - ⚡ Fun fact: When I'm not working - I hike, play music, snowboard, travel, go to shows and pretend I can surf
