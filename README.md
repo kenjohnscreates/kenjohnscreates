@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenjohnscreates
 - 👀 I’m interested in tokenizing IP and building agentic tools with Ample Protocol
-- 🌱 I’m an operator that focuses on GTM through content, marketing and code; currently learning python + vibe coding to build easy to use web3 tools + data and AI workflows
+- 🌱 I’m an operator that focuses on GTM through content, marketing and code; currently building Watts, an agent that 1) checks for IP infringement 2) helps brands market 3) helps brands and creators offer digital assets across socials and 4) monitors IP markets. https://github.com/kenjohnscreates/watts-agent
 - 📫 How to reach me kenny@ampleplatform.com
 - ⚡ Fun fact: When I'm not working - I hike, play music, snowboard, travel, go to shows and pretend I can surf
-- Project manager (NEAR + Bitte): 
+- Former project manager for IP and streaming offerings (NEAR + Bitte)
