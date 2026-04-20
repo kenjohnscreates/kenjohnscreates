@@ -6,15 +6,15 @@
 3) IP registration
   
 👷‍♂️ Former project manager for IP and streaming offerings (Ample, NEAR + Bitte):
-Token Gated Streaming on Near and Base
-Physical and Digital Merch Offerings on Base
-IP Marketplace and Launches on Near and Base
+- Token Gated Streaming on Near and Base
+- Physical and Digital Merch Offerings on Base
+- IP Marketplace and Launches on Near and Base
 
 📖 Classes and Certs: 
-Harvard's CS50 (Intro to CS + AI + Cybersecurity)
-Free Code Academy Systems Design
-Boot.dev Intro to Python + SQL
-Cisco Networking Academy Intro to Cybersecurity
-Scrum Alliance Certified Scrum Master
+- Harvard's CS50 (Intro to CS + AI + Cybersecurity)
+- Free Code Academy Systems Design
+- Boot.dev Intro to Python + SQL
+- Cisco Networking Academy Intro to Cybersecurity
+- Scrum Alliance Certified Scrum Master
 
 ⚡ Fun fact: When I'm not working - I hike, play music, snowboard, travel, go to shows and pretend I can surf
