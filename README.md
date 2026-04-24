@@ -8,7 +8,7 @@
 👷‍♂️ Former project manager for IP and streaming offerings (Ample, NEAR + Bitte):
 - Token Gated Streaming on Near and Base
 - Physical and Digital Merch Offerings on Base
-- IP Marketplace and Launches on Near and Base
+- IP Marketplace and Launches on Near (audited): https://youtu.be/tvt6TR7n2mk and Base: https://youtu.be/Mzev8Ub-Bcg
 
 📖 Classes and Certs: 
 - Harvard's CS50 (Intro to CS + AI + Cybersecurity)
