@@ -1,4 +1,4 @@
-👋 Hi, I’m Kenny - Founder, PM and Operator that focuses on GTM through content, marketing tools and code
+👋 Hi, I’m Kenny - Founder, GTM and technical operator comfortable turning complex products into traction across creative production, Web3 infrastructure, and AI tool sets.
   
 👨‍💻 Current projects in motion:
 1) Watts (v1.2 is live on X @wattsisamped). Evolving to be an agent that 1) checks for IP infringement 2) helps brands market 3) helps brands and creators offer digital assets across socials and 4) monitors IP markets. https://github.com/kenjohnscreates/watts-agent
