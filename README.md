@@ -2,7 +2,7 @@
   
 👨‍💻 Current projects in motion:
 1) Watts (v1.2 is live on X @wattsisamped). Evolving to be an agent that 1) checks for IP infringement 2) helps brands market 3) helps brands and creators offer digital assets across socials and 4) monitors IP markets. https://github.com/kenjohnscreates/watts-agent
-2) Chatter (what's trending across different socials)
+2) Chatter (GTM tool to show what's trending across different socials, winning ETH Global hackathon project): https://github.com/kenjohnscreates/chatter
 3) IP registration (on Base, for agents and humans!)
 4) Coinbase X AWS Hackathon Winner for Giggy (Agent + Human Workplace): https://github.com/nadiia-balaian/consensus26-giggy/blob/main/README.md
   
