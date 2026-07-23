@@ -1,27 +1,25 @@
-👋 Hi, I'm Kenny. Founder, GTM and technical operator comfortable turning complex products into traction across creative production, Web3 infrastructure, and AI tool sets. Recent work also covers security adjacent builds: a Rust + Tauri network traffic monitor and a sandboxed code review workflow that caught a credential theft repo sent under a fake hiring pretext.
+👋 Hi, I'm Kenny. I make S-tier content, grow the audience, and build the tools that scale both. 17 years: started as a full-time video editor at National Geographic, produced brand content for Discovery, Google, and the World Bank, ran Ample's full marketing and GTM functions for five years, and now I build marketing agents, systems, tools and apps that do real marketing, growth and content work.
 
 🔧 Current projects in motion:
+1. **Chatter**: go-to-market trend research tool. Enter 5 to 20 keywords, get a report on what's trending across YouTube, X, GitHub, Polymarket, Hacker News, and more. 2x prize winner, ETHGlobal New York 2026. https://github.com/kenjohnscreates/chatter
+2. **Watts**: autonomous content agent, live on X (@wattsisamped). Scrapes market data and publishes on schedule. https://github.com/kenjohnscreates/watts-agent
+3. **Giggy**: AI-agent + human task marketplace, built with a partner in 2.5 days. 3rd place, Consensus 2026 hackathon (Coinbase x AWS track). https://github.com/nadiia-balaian/consensus26-giggy
+4. **Safe Repo Review**: sandboxed workflow for inspecting untrusted repos. Caught a real credential-theft repo sent as a fake hiring assessment. https://github.com/kenjohnscreates/safe-repo-review
+5. **Ample**: IP registration onchain (on Base, for agents and humans!)
+6. **Network Monitor**: Rust + Tauri macOS network traffic monitor. Live network capture, flow aggregation, anomaly heuristics. Inspired by Sniffnet. https://github.com/kenjohnscreates/network-monitor
 
-1. **Watts**: (v1.2 is live on X @wattsisamped). Evolving to be an agent that 1) checks for IP infringement 2) helps brands market 3) helps brands and creators offer digital assets across socials and 4) monitors IP markets. https://github.com/kenjohnscreates/watts-agent
-2. **Chatter**: (GTM tool to show what's trending across different socials, winning ETH Global hackathon project): https://github.com/kenjohnscreates/chatter
-3. **Ample**: IP registration onchain (on Base, for agents and humans!)
-4. **Giggy**: Coinbase X AWS Hackathon Winner (Agent + Human Workplace): https://github.com/nadia-balaian/consensus26-giggy/blob/main/README.md
-5. **Network Monitor**: Rust + Tauri macOS network traffic monitor. Live network capture, flow aggregation, anomaly heuristics. Inspired by Sniffnet. https://github.com/kenjohnscreates/network-monitor
-6. **Safe Repo Review**: 4-phase sandboxed code-review workflow for inspecting untrusted GitHub repos. https://github.com/kenjohnscreates/safe-repo-review
+📚 Classes and Certs:
+- Harvard's CS50 (Intro to CS + AI + Cybersecurity)
+- Free Code Academy Systems Design
+- Boot.dev Intro to Python
+- Cisco Networking Academy Intro to Cybersecurity
+- Scrum Alliance Certified Scrum Master
+- Y Combinator Startup School
+- Towson B.S. Economics
 
-👷‍♂️ Former project manager for IP and streaming offerings (Ample, NEAR + Bitte):
-
+🗄️ Older IP and streaming offerings (Ample, NEAR + Bitte):
 - Token Gated Streaming on Near and Base
 - Physical and Digital Merch Offerings on Base
 - IP Marketplace and Launches on Near (audited): https://youtu.be/IvI6TR7n2mk and Base: https://youtu.be/MzevBUb-Bcg
 
-📚 Classes and Certs:
-
-- Harvard's CS50 (Intro to CS + AI + Cybersecurity)
-- Free Code Academy Systems Design
-- Boot.dev Intro to Python + SQL (in progress)
-- Cisco Networking Academy Intro to Cybersecurity
-- Scrum Alliance Certified Scrum Master
-- Towson B.S. Economics
-
-🎉 Fun fact: When I'm not working, I hike, play music, snowboard, travel, go to shows, and pretend I can surf.
+Off hours: hiking, music, snowboarding, and pretending I can surf.
