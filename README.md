@@ -1,4 +1,4 @@
-👋 Hi, I'm Kenny. I make S-tier content, grow the audience, and build the tools that scale both. 17 years: started as a full-time video editor at National Geographic, produced brand content for Discovery, Google, and the World Bank, ran Ample's full marketing and GTM functions for five years, and now I build marketing agents, systems, tools and apps that do real marketing, growth and content work.
+👋 Hi, I'm Kenny. I build agentic systems, tools and apps. Background in content marketing and go-to-market work for brands like Ample, Near, Nat Geo, Discovery, Google, World Bank, Lockheed, 3M and many others. Always exploring, building, creating and learning ⚡️
 
 🔧 Current projects in motion:
 1. **Chatter**: go-to-market trend research tool. Enter 5 to 20 keywords, get a report on what's trending across YouTube, X, GitHub, Polymarket, Hacker News, and more. 2x prize winner, ETHGlobal New York 2026. https://github.com/kenjohnscreates/chatter
