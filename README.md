@@ -23,3 +23,5 @@
 - IP Marketplace and Launches on Near (audited): https://youtu.be/IvI6TR7n2mk and Base: https://youtu.be/MzevBUb-Bcg
 
 Off hours: hiking, music, snowboarding, and pretending I can surf.
+
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"2GH44MmRLnuVaYPPoGpZiWzmdzSAtoxA5hnU2xFUciDx"} -->
