@@ -5,7 +5,7 @@
 2. **Watts**: autonomous content agent, live on X (@wattsisamped). Scrapes market data and publishes on schedule. https://github.com/kenjohnscreates/watts-agent
 3. **Giggy**: AI-agent + human task marketplace, built with a partner in 2.5 days. 3rd place, Consensus 2026 hackathon (Coinbase x AWS track). https://github.com/nadiia-balaian/consensus26-giggy
 4. **Safe Repo Review**: sandboxed workflow for inspecting untrusted repos. Caught a real credential-theft repo sent as a fake hiring assessment. https://github.com/kenjohnscreates/safe-repo-review
-5. **Ample**: IP registration onchain (on Base, for agents and humans!)
+5. **Ample**: IP registration onchain (on Base, for agents and humans!): https://register.ampleprotocol.xyz
 6. **Network Monitor**: Rust + Tauri macOS network traffic monitor. Live network capture, flow aggregation, anomaly heuristics. Inspired by Sniffnet. https://github.com/kenjohnscreates/network-monitor
 7. **Eliza OS**: Contributing open source agentic coding commits: https://github.com/elizaOS/eliza
 
