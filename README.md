@@ -1,6 +1,6 @@
 👋 Hi, I'm Kenny. I build agentic systems, tools and apps. Background in content marketing and go-to-market work for brands like Ample, Near, Nat Geo, Discovery, Google, World Bank, Lockheed, 3M and many others. Always exploring, building, creating and learning ⚡️
 
-🔧 Current projects in motion:
+🔧 Recent projects in motion:
 1. **Chatter**: go-to-market trend research tool. Enter 5 to 20 keywords, get a report on what's trending across YouTube, X, GitHub, Polymarket, Hacker News, and more. 2x prize winner, ETHGlobal New York 2026. https://github.com/kenjohnscreates/chatter
 2. **Watts**: autonomous content agent, live on X (@wattsisamped). Scrapes market data and publishes on schedule. https://github.com/kenjohnscreates/watts-agent
 3. **Giggy**: AI-agent + human task marketplace, built with a partner in 2.5 days. 3rd place, Consensus 2026 hackathon (Coinbase x AWS track). https://github.com/nadiia-balaian/consensus26-giggy
@@ -18,10 +18,10 @@
 - Y Combinator Startup School
 - Towson B.S. Economics
 
-🗄️ Older IP and streaming offerings (Ample, NEAR + Bitte):
-- Token Gated Streaming on Near and Base
-- Physical and Digital Merch Offerings on Base
-- IP Marketplace and Launches on Near (audited): https://youtu.be/IvI6TR7n2mk and Base: https://youtu.be/MzevBUb-Bcg
+🗄️ Older IP and streaming offerings (Project Manager):
+- Tokenized IP, Streaming, Physical and Digital Merch Offerings on NEAR L1: (audited) https://youtu.be/IvI6TR7n2mk
+- Tokenized IP, Streaming, Physical and Digital Merch Offerings on Base L2: https://youtu.be/MzevBUb-Bcg
+- Token Staking on Base with NFT APR boosts: https://stake.ampleprotocol.xyz
 
 Off hours: hiking, music, snowboarding, and pretending I can surf.
 
