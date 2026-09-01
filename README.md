@@ -7,7 +7,7 @@
 4. **Safe Repo Review**: sandboxed workflow for inspecting untrusted repos. Caught a real credential-theft repo sent as a fake hiring assessment. https://github.com/kenjohnscreates/safe-repo-review
 5. **Ample**: IP registration onchain (on Base, for agents and humans!): https://register.ampleprotocol.xyz
 6. **Network Monitor**: Rust + Tauri macOS network traffic monitor. Live network capture, flow aggregation, anomaly heuristics. Inspired by Sniffnet. https://github.com/kenjohnscreates/network-monitor
-7. **Eliza OS**: Contributing open source agentic coding commits: https://github.com/elizaOS/eliza
+7. **Eliza OS**: Contributing open source agentic coding and ASI commits: https://github.com/elizaOS/eliza and https://github.com/SlopDotCash/asi
 
 📚 Classes and Certs:
 - Harvard's CS50 (Intro to CS + AI + Cybersecurity)
