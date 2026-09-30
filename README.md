@@ -27,6 +27,6 @@
 - Tokenized IP, Streaming, Physical and Digital Merch Offerings on Base L2: https://youtu.be/MzevBUb-Bcg
 - Token Staking on Base with NFT APR boosts: https://stake.ampleprotocol.xyz
 
-Off hours: hiking, music, snowboarding, and pretending I can surf 😉
+Off hours: hiking, music, snowboarding, real estate and pretending I can surf 😉
 
 <!-- gitarmy-wallet:v1 {"chain":"solana","address":"2GH44MmRLnuVaYPPoGpZiWzmdzSAtoxA5hnU2xFUciDx"} -->
