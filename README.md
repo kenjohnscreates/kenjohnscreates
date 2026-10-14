@@ -8,7 +8,7 @@
 5. **Safe Repo Review**: sandboxed workflow for inspecting untrusted repos. Caught a real credential-theft repo sent as a fake hiring assessment. https://github.com/kenjohnscreates/safe-repo-review
 6. **Network Monitor**: Rust + Tauri macOS network traffic monitor. Live network capture, flow aggregation, anomaly heuristics. Inspired by Sniffnet. https://github.com/kenjohnscreates/network-monitor
 7. **Eliza OS**: Contributing open source agentic coding and ASI commits, reviews: https://github.com/elizaOS/eliza and https://github.com/SlopDotCash/asi
-8. **TreasureFlow***: Rule based treasury agentic app on Base built for the Bankr Runtime NYC hackathon. A Bankr treasury sweeps idle USDC into Aerodrome LP, pays allowlisted wallets, Definitive Flash triggers automated orders; all under per-call, daily, and hard-stop caps. https://github.com/kenjohnscreates/TreasureFlow
+8. **TreasureFlow**: Rule based treasury agentic app on Base built for the Bankr Runtime NYC hackathon. A Bankr treasury sweeps idle USDC into Aerodrome LP, pays allowlisted wallets, Definitive Flash triggers automated orders; all under per-call, daily, and hard-stop caps. https://github.com/kenjohnscreates/TreasureFlow
 9. **Botanica**: A gamified agentic economy built for ETH Global Online Hackathon - SimCity/Stardew concept for agents, with a real bank. Watch your agent. Direct your agent. Own the swarm. Built on Arc L1 for stablecoin settlements (including crosschain) with ENSv2 names for agents and The Graph for oracle/pricing/DeFi feeds. https://github.com/kenjohnscreates/agent-economy
 
 📚 Classes and Certs:
